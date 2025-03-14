@@ -11,10 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/choraria/pptr-io.git"
   },
-  "author": "choraria",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/choraria/pptr-io/issues"
-  },
-  "homepage": "https://github.com/choraria/pptr-io#readme"
+  "author": "Nagendra",
+  "license": "MIT"
+  
 }
